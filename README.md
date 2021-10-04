@@ -17,5 +17,8 @@ Reproductor de música básico
 ### [Correo] (NdAmilcar@gmail.com)
 
 ### La programación es un mundo en el que el camino es difícil si lo hacemos solos, pero hay una comunidad ¡GIGANTE! Dispuesta a ayudar, no tengas miedo, todos empezamos de abajo, animate a compartir tu experiencia y tus pasos por este maravilloso mundo.
+
+
+## El límite es solo la imaginación.
   
  # Muchos éxitos!
