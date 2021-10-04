@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <title>Sound</title>
+</head>
+<body>
+    <div class="container">
+        <div class="listado-canciones">
+            <div class="cancion">
+                <div class="titulo">
+                    Like Sugar
+                </div>
+                <div class="play" id="like-sugar">
+                    <span class="material-icons">
+                        play_circle
+                    </span>
+                </div>
+                <div class="stop">
+                    <span class="material-icons">
+                        cancel
+                    </span>
+                </div>
+                <div class="descargar">
+                    <a href="./sounds/like-sugar.mp3" download>
+                        <span class="material-icons">
+                            file_download
+                        </span>
+                    </a>
+                </div>
+            </div>
+            <div class="cancion">
+                <div class="titulo">
+                    Funky Destination
+                </div>
+                <div class="play" id="funky-destination">
+                    <span class="material-icons">
+                        play_circle
+                    </span>
+                </div>
+                <div class="stop">
+                    <span class="material-icons">
+                        cancel
+                    </span>
+                </div>
+                <div class="descargar">
+                    <a href="./sounds/funky-destination.mp3" download>
+                        <span class="material-icons">
+                            file_download
+                        </span>
+                    </a>
+                </div>
+            </div>
+            <div class="cancion">
+                <div class="titulo">
+                    Love & Heat
+                </div>
+                <div class="play" id="love-heat">
+                    <span class="material-icons">
+                       play_circle
+                    </span>
+                </div>
+                <div class="stop">
+                    <span class="material-icons">
+                        cancel
+                    </span>
+                </div>
+                <div class="descargar">
+                    <a href="./sounds/love-heat.mp3" download>
+
+                    <span class="material-icons">
+                        file_download
+                    </span>
+                </div>
+            </div>
+        </div>
+        <input type="range" max="1" min="0" step="0.1" class="volumen">
+    </div>
+
+    <script src="music.js"></script>
+</body>
+</html>
