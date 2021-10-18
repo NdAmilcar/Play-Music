@@ -1,9 +1,6 @@
 ![This is an image](https://github.com/NdAmilcar/Play-Music/blob/main/imagenes/Captura%20de%20pantalla%20de%20Music%20App.png)
 
-#Bienvenidos a mi repositorio
-
-
-### Los invito a aprovechar de todos los códigos que iré subiendo a lo largo de mi vida como desarrollador.
+### Bienvenidos a mi repositorio.
     Espero sea de ayuda, si tienen algún problema con el código o alguna duda, sin ningún problema pueden contactarme,
     voy a hacer todo lo posible por responder a todas sus dudas, dejo mis redes sociales para que puedan hacerlo.
 
